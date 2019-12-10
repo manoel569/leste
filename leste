@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1,AMC HD
+http://vip.primeuhd.com:25461/2listadez19/102030/9066
+#EXTINF:-1,COMBATE
+http://vip.primeuhd.com:25461/2listadez19/102030/14096
+#EXTINF:-1,CINEMAX HD
+http://vip.primeuhd.com:25461/2listadez19/102030/14198
+#EXTINF:-1,CINEMAX SD
+http://vip.primeuhd.com:25461/2listadez19/102030/9063
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://vip.primeuhd.com:25461/2listadez19/102030/8943
+#EXTINF:-1,FOX HD
+http://vip.primeuhd.com:25461/2listadez19/102030/9059
+#EXTINF:-1,HBO HD¹
+http://vip.primeuhd.com:25461/2listadez19/102030/14134
+#EXTINF:-1,HBO HD²
+http://vip.primeuhd.com:25461/2listadez19/102030/9080
+#EXTINF:-1,HBO SD
+http://vip.primeuhd.com:25461/2listadez19/102030/9087
+#EXTINF:-1,HBO 2 HD¹
+http://vip.primeuhd.com:25461/2listadez19/102030/14135
+#EXTINF:-1,HBO 2 HD²
+http://vip.primeuhd.com:25461/2listadez19/102030/9084
+#EXTINF:-1,HBO 2 SD
+http://vip.primeuhd.com:25461/2listadez19/102030/9086
+#EXTINF:-1,PLUS HD¹
+http://vip.primeuhd.com:25461/2listadez19/102030/14137
+#EXTINF:-1,PLUS HD²
+http://vip.primeuhd.com:25461/2listadez19/102030/9077
+#EXTINF:-1,HBO PLUS SD
+http://vip.primeuhd.com:25461/2listadez19/102030/9079
+#EXTINF:-1,MAX HD¹
+http://vip.primeuhd.com:25461/2listadez19/102030/14186
+#EXTINF:-1,MAX HD²
+http://vip.primeuhd.com:25461/2listadez19/102030/8409
+#EXTINF:-1,MAX SD
+http://vip.primeuhd.com:25461/2listadez19/102030/9050
+#EXTINF:-1,PRIME HD¹
+http://vip.primeuhd.com:25461/2listadez19/102030/14188
+#EXTINF:-1,MEGAPIX HD¹
+http://vip.primeuhd.com:25461/2listadez19/102030/14212
+#EXTINF:-1,RECORD SP HD¹
+http://vip.primeuhd.com:25461/2listadez19/102030/14152
+#EXTINF:-1,SP HD²
+http://vip.primeuhd.com:25461/2listadez19/102030/8894
+#EXTINF:-1,TELECINE ACTION HD¹
+http://vip.primeuhd.com:25461/2listadez19/102030/14123
+#EXTINF:-1,TELECINE ACTION HD²
+http://vip.primeuhd.com:25461/2listadez19/102030/9240
+#EXTINF:-1,TELECINE ACTION SD
+http://vip.primeuhd.com:25461/2listadez19/102030/9242
+#EXTINF:-1,PIPOCA HD¹
+http://vip.primeuhd.com:25461/2listadez19/102030/14126
+#EXTINF:-1,TELECINE PIPOCA HD²
+http://vip.primeuhd.com:25461/2listadez19/102030/9231
+#EXTINF:-1,TELECINE PIPOCA SD
+http://vip.primeuhd.com:25461/2listadez19/102030/8373
+#EXTINF:-1,WARNER CHANNEL HD¹
+http://vip.primeuhd.com:25461/2listadez19/102030/14236
+#EXTINF:-1,WARNER CHANNEL SD
+http://vip.primeuhd.com:25461/2listadez19/102030/9022
+
+
